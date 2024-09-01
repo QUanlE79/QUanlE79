@@ -44,7 +44,7 @@ I'm a student of the Faculty of Information Technology at Ho Chi Minh University
 
 # Contact Me
 
-## You can contact me via [![Gmail Badge](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lequan2002.ql@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/quanle2002.ql/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lequan.ql/)
+## You can contact me via [![Gmail Badge](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lequan2002.ql@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lequan2002.ql/)  [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lequan.ql/)
 <!--
 **QUanlE79/QUanlE79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
