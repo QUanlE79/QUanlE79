@@ -45,7 +45,7 @@ Feel free to reach out for collaboration, or if you have any questions or ideas!
 [![Gmail Badge](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lequan2002.ql@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lequan2002.ql/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/lequan.ql/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lequan-ql/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/lequan2002ql//)
 
 ---
 
